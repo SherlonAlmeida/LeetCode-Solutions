@@ -1,3 +1,5 @@
+# 2678. Number of Senior Citizens
+
 class Solution:
     def countSeniors(self, details):
         total_60plus_years = 0
